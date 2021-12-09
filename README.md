@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Canberk</h1>
 <h3 align="center">A passionate Mobile developer from Turkey</h3>
 
-<p align="center"> ![giphy](https://thelostteacher.files.wordpress.com/2021/02/type.gif)  </p>
+<p align="center"> <img src="https://github.com/canberkb8/canberkb8/blob/main/type.gif" width="256"/> </p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
